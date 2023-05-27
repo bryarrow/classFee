@@ -9,6 +9,6 @@ createApp({
 
 createApp({
 	data() {
-		return {budget}
+		return {budget:155}
 	}
 }).mount('#budget')
