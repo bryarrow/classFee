@@ -6,3 +6,9 @@ createApp({
 	}
 }
 ).mount('#balances')
+
+createApp({
+	data() {
+		return {budget}
+	}
+}).mount('#budget')
